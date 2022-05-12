@@ -13,7 +13,6 @@ cursor = midb.cursor()
 ##cursor.execute('select * from P_JURIDICA')
 ##cursor.execute('show create table P_JURIDICA')
 ##cursor.execute('select * from DIRIGENTES')
-##cursor.execute('show create table DIRIGENTES')sbhjkdajkaksdalghola
 ##cursor.execute('show create table DIRIGENTES')
 
 
